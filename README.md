@@ -7,7 +7,7 @@ Ariosto Kuit 	(Ariostokuitak@csu.fullerton.edu) 889834065 <br/>
 ## 0 Installation
 Make sure you are in the project root and run:
 
-"foreman start"
+"foreman start -m "gateway=1,users=3,timelines=3"
 
 ## 1 Background 
 
